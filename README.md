@@ -1,4 +1,9 @@
+## 👋 About Me
 
+🎓 I'm a 2nd year **BS Computer Science** student  
+💻 Passionate about coding, learning new technologies, and building cool projects  
+🚀 Currently exploring web development and data structures  
+📚 Always eager to learn and grow!
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnrichrio1@gmail.com) 

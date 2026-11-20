@@ -1,5 +1,7 @@
 <div align="center">
 
+`$ > HELLO, WORLD.`
+
 ```
 ██╗   ██╗███████╗██████╗
 ██║   ██║██╔════╝██╔══██╗
@@ -15,6 +17,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=INITIALIZING+PROFILE...;LOADING+STACK%3A+LARAVEL+%2B+REACT;CONNECTING+TO+SUPABASE...;STATUS%3A+ONLINE+%2F%2F+SHIPPING+CODE&font=Fira+Code&center=true&width=600&height=50&color=00F0FF&vCenter=true&size=20&pause=1500&background=000000)](https://git.io/typing-svg)
 
 ![neon-divider](https://img.shields.io/badge/-%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC-000000?style=flat-square&color=FF00C8)
+
+### [ DASHBOARD ]
+
+![metrics](./metrics.svg)
 
 </div>
 
@@ -50,6 +56,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF00C8)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=FF00C8)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF00C8)
+![Visual Basic](https://img.shields.io/badge/-Visual_Basic-000000?style=for-the-badge&logoColor=FF00C8)
 
 **DATA / CLOUD**
 

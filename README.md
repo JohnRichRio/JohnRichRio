@@ -1,20 +1,6 @@
 <div align="center">
 
-`$ > HELLO, WORLD.`
-
-```
-██╗   ██╗███████╗██████╗
-██║   ██║██╔════╝██╔══██╗
-██║   ██║███████╗██████╔╝
-██║   ██║╚════██║██╔══██╗
-╚██████╔╝███████║██║  ██║
- ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
-
-### JOHN RICH RIO
-`FULL-STACK DEVELOPER :: SYSTEM BUILDER :: CS STUDENT`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=INITIALIZING+PROFILE...;LOADING+STACK%3A+LARAVEL+%2B+REACT;CONNECTING+TO+SUPABASE...;STATUS%3A+ONLINE+%2F%2F+SHIPPING+CODE&font=Fira+Code&center=true&width=600&height=50&color=00F0FF&vCenter=true&size=20&pause=1500&background=000000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello%2C+World!;I'm+John+Rich+Rio;Full-Stack+Developer+%2F%2F+System+Builder;Currently+shipping%3A+Laravel+%2B+React+%2B+Supabase&font=Fira+Code&center=true&width=600&height=60&color=00F0FF&vCenter=true&size=26&pause=1800&background=000000)](https://git.io/typing-svg)
 
 ![neon-divider](https://img.shields.io/badge/-%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC-000000?style=flat-square&color=FF00C8)
 
@@ -73,17 +59,6 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=39FF14)
 
 ---
-
-### [ METRICS ]
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=JohnRichRio&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=000000&title_color=00F0FF&icon_color=FF00C8&text_color=c9d1d9)
-![](https://nirzak-streak-stats.vercel.app/?user=JohnRichRio&theme=tokyonight&hide_border=true&background=000000&ring=00F0FF&fire=FF00C8&currStreakLabel=00F0FF)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRichRio&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=000000&title_color=00F0FF&text_color=c9d1d9)
-
-</div>
 
 ### [ TROPHIES ]
 

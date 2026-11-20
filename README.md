@@ -1,103 +1,114 @@
 <div align="center">
 
-# Hi, I'm John Rich Rio 👋
+```
+██╗   ██╗███████╗██████╗
+██║   ██║██╔════╝██╔══██╗
+██║   ██║███████╗██████╔╝
+██║   ██║╚════██║██╔══██╗
+╚██████╔╝███████║██║  ██║
+ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
-### Computer Science Student · Full-Stack Developer · Builder of Real Products
+### JOHN RICH RIO
+`FULL-STACK DEVELOPER :: SYSTEM BUILDER :: CS STUDENT`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+full-stack+web+apps+with+Laravel+%2B+React;Exploring+data,+hardware,+and+cloud+databases;Always+shipping,+always+learning;Open+to+collaborations+%26+internships&font=Fira+Code&center=true&width=600&height=50&color=0EA5E9&vCenter=true&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=INITIALIZING+PROFILE...;LOADING+STACK%3A+LARAVEL+%2B+REACT;CONNECTING+TO+SUPABASE...;STATUS%3A+ONLINE+%2F%2F+SHIPPING+CODE&font=Fira+Code&center=true&width=600&height=50&color=00F0FF&vCenter=true&size=20&pause=1500&background=000000)](https://git.io/typing-svg)
+
+![neon-divider](https://img.shields.io/badge/-%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC-000000?style=flat-square&color=FF00C8)
+
+</div>
+
+### [ PROFILE ]
+
+```
+> CLASS........ BS Computer Science, 2nd Year
+> FOCUS........ Full-stack web development, database to deployment
+> CURRENT_BUILD Clinic management system — Laravel + Inertia + React,
+                running on Vercel with Supabase in production
+> SIDE_PROJECT. Arduino — where code starts controlling real hardware
+> PHILOSOPHY... Ship small and working over perfect and never shipped
+> STATUS....... Open to internships, freelance work, collaboration
+```
+
+---
+
+### [ STACK ]
+
+**FRONTEND**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F0FF)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00F0FF)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00F0FF)
+![Next JS](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00F0FF)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00F0FF)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=00F0FF)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=00F0FF)
+
+**BACKEND**
+
+![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=FF00C8)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF00C8)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=FF00C8)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF00C8)
+
+**DATA / CLOUD**
+
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=9D00FF)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=9D00FF)
+![Supabase](https://img.shields.io/badge/-Supabase-000000?style=for-the-badge&logo=supabase&logoColor=9D00FF)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=9D00FF)
+
+**HARDWARE / TOOLING**
+
+![Arduino](https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=arduino&logoColor=39FF14)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)
+![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=39FF14)
+
+---
+
+### [ METRICS ]
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=JohnRichRio&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=000000&title_color=00F0FF&icon_color=FF00C8&text_color=c9d1d9)
+![](https://nirzak-streak-stats.vercel.app/?user=JohnRichRio&theme=tokyonight&hide_border=true&background=000000&ring=00F0FF&fire=FF00C8&currStreakLabel=00F0FF)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRichRio&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=000000&title_color=00F0FF&text_color=c9d1d9)
+
+</div>
+
+### [ TROPHIES ]
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=JohnRichRio&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+### [ LOG_ENTRY ]
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+### [ TOP CONTRIBUTION ]
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=JohnRichRio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
 ---
 
-### 🙋 About Me
-
-- 🎓 2nd-year **BS Computer Science** student
-- 💻 Focused on **full-stack web development**, from database design to polished UI
-- 🏗️ Currently building a production-grade **clinic management system** (Laravel + Inertia + React, deployed on Vercel with Supabase)
-- 🔌 Curious about where software meets hardware — I tinker with **Arduino** on the side
-- 📈 Always leveling up: clean architecture, performance, and real deployment workflows over tutorials
-- ⚡ Fun fact: I'd rather ship something small and working than perfect something that never ships
-
----
-
-### 🧰 Tech Stack
-
-**Languages & Frontend**
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Languages**
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Database & Cloud**
-
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Hardware & Tools**
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=JohnRichRio&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=JohnRichRio&theme=dark&hide_border=false)
+`CONNECTION ESTABLISHED` — reach out for collabs, freelance work, or internships.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRichRio&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=JohnRichRio&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=JohnRichRio&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-<div align="center">
-
-📫 **Let's connect** — open to internships, freelance work, and collaboration on interesting projects.
-
-[![](https://visitcount.itsvg.in/api?id=JohnRichRio&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JohnRichRio&icon=0&color=5)](https://visitcount.itsvg.in)
 
 </div>
 
